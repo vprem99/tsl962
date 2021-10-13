@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="198" started-at="2021-10-13T07:14:35Z" finished-at="2021-10-13T07:14:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="198" started-at="2021-10-13T07:14:35Z" finished-at="2021-10-13T07:14:35Z">
+      <class name="appTests.NumberComparision">
+        <test-method status="PASS" signature="intCamparision()[pri:0, instance:appTests.NumberComparision@51565ec2]" name="intCamparision" duration-ms="50" started-at="2021-10-13T07:14:35Z" finished-at="2021-10-13T07:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intCamparision -->
+      </class> <!-- appTests.NumberComparision -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
